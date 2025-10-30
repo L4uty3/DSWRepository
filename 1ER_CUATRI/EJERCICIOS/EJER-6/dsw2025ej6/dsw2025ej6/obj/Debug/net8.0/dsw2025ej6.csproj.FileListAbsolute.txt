@@ -1,0 +1,14 @@
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\bin\Debug\net8.0\dsw2025ej6.exe
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\bin\Debug\net8.0\dsw2025ej6.deps.json
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\bin\Debug\net8.0\dsw2025ej6.runtimeconfig.json
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\bin\Debug\net8.0\dsw2025ej6.dll
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\bin\Debug\net8.0\dsw2025ej6.pdb
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\obj\Debug\net8.0\dsw2025ej6.GeneratedMSBuildEditorConfig.editorconfig
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\obj\Debug\net8.0\dsw2025ej6.AssemblyInfoInputs.cache
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\obj\Debug\net8.0\dsw2025ej6.AssemblyInfo.cs
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\obj\Debug\net8.0\dsw2025ej6.csproj.CoreCompileInputs.cache
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\obj\Debug\net8.0\dsw2025ej6.dll
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\obj\Debug\net8.0\refint\dsw2025ej6.dll
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\obj\Debug\net8.0\dsw2025ej6.pdb
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\obj\Debug\net8.0\dsw2025ej6.genruntimeconfig.cache
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\dsw2025ej6\dsw2025ej6\obj\Debug\net8.0\ref\dsw2025ej6.dll

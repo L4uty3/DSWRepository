@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\EJER-6\\toqueteando\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1DDD5A-B754-4A49-8FD2-8AE058B6E7B5}|toqueteando\\toqueteando.csproj|d:\\a - escritorio\\facultad\\2025\\.dsw\\ejer-6\\toqueteando\\toqueteando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1DDD5A-B754-4A49-8FD2-8AE058B6E7B5}|toqueteando\\toqueteando.csproj|solutionrelative:toqueteando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1DDD5A-B754-4A49-8FD2-8AE058B6E7B5}|toqueteando\\toqueteando.csproj|d:\\a - escritorio\\facultad\\2025\\.dsw\\ejer-6\\toqueteando\\toqueteando\\carpeta1\\pepe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1DDD5A-B754-4A49-8FD2-8AE058B6E7B5}|toqueteando\\toqueteando.csproj|solutionrelative:toqueteando\\carpeta1\\pepe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\EJER-6\\toqueteando\\toqueteando\\Program.cs",
+              "RelativeDocumentMoniker": "toqueteando\\Program.cs",
+              "ToolTip": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\EJER-6\\toqueteando\\toqueteando\\Program.cs",
+              "RelativeToolTip": "toqueteando\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:26:25.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pepe.cs",
+              "DocumentMoniker": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\EJER-6\\toqueteando\\toqueteando\\Carpeta1\\pepe.cs",
+              "RelativeDocumentMoniker": "toqueteando\\Carpeta1\\pepe.cs",
+              "ToolTip": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\EJER-6\\toqueteando\\toqueteando\\Carpeta1\\pepe.cs",
+              "RelativeToolTip": "toqueteando\\Carpeta1\\pepe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:27:15.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\obj\Debug\net8.0\toqueteando.GeneratedMSBuildEditorConfig.editorconfig
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\obj\Debug\net8.0\toqueteando.AssemblyInfoInputs.cache
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\obj\Debug\net8.0\toqueteando.AssemblyInfo.cs
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\obj\Debug\net8.0\toqueteando.csproj.CoreCompileInputs.cache
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\bin\Debug\net8.0\toqueteando.exe
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\bin\Debug\net8.0\toqueteando.deps.json
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\bin\Debug\net8.0\toqueteando.runtimeconfig.json
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\bin\Debug\net8.0\toqueteando.dll
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\bin\Debug\net8.0\toqueteando.pdb
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\obj\Debug\net8.0\toqueteando.dll
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\obj\Debug\net8.0\refint\toqueteando.dll
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\obj\Debug\net8.0\toqueteando.pdb
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\obj\Debug\net8.0\toqueteando.genruntimeconfig.cache
+D:\A - Escritorio\Facultad\2025\.DSW\EJER-6\toqueteando\toqueteando\obj\Debug\net8.0\ref\toqueteando.dll

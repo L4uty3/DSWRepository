@@ -1,0 +1,4 @@
+D:\A - Escritorio\Facultad\2025\.DSW\PRACTICA-IND\spoilerejer14\spoilerejer14\obj\Debug\net8.0\spoilerejer14.GeneratedMSBuildEditorConfig.editorconfig
+D:\A - Escritorio\Facultad\2025\.DSW\PRACTICA-IND\spoilerejer14\spoilerejer14\obj\Debug\net8.0\spoilerejer14.AssemblyInfoInputs.cache
+D:\A - Escritorio\Facultad\2025\.DSW\PRACTICA-IND\spoilerejer14\spoilerejer14\obj\Debug\net8.0\spoilerejer14.AssemblyInfo.cs
+D:\A - Escritorio\Facultad\2025\.DSW\PRACTICA-IND\spoilerejer14\spoilerejer14\obj\Debug\net8.0\spoilerejer14.csproj.CoreCompileInputs.cache

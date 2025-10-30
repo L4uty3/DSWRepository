@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\PRACTICA-IND\\spoilerejer14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBE181C-1714-4CEA-BC5C-D9F4E6314A1D}|spoilerejer14\\spoilerejer14.csproj|d:\\a - escritorio\\facultad\\2025\\.dsw\\practica-ind\\spoilerejer14\\spoilerejer14\\data\\persistenciaenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBE181C-1714-4CEA-BC5C-D9F4E6314A1D}|spoilerejer14\\spoilerejer14.csproj|solutionrelative:spoilerejer14\\data\\persistenciaenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBE181C-1714-4CEA-BC5C-D9F4E6314A1D}|spoilerejer14\\spoilerejer14.csproj|d:\\a - escritorio\\facultad\\2025\\.dsw\\practica-ind\\spoilerejer14\\spoilerejer14\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBE181C-1714-4CEA-BC5C-D9F4E6314A1D}|spoilerejer14\\spoilerejer14.csproj|solutionrelative:spoilerejer14\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBE181C-1714-4CEA-BC5C-D9F4E6314A1D}|spoilerejer14\\spoilerejer14.csproj|d:\\a - escritorio\\facultad\\2025\\.dsw\\practica-ind\\spoilerejer14\\spoilerejer14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBE181C-1714-4CEA-BC5C-D9F4E6314A1D}|spoilerejer14\\spoilerejer14.csproj|solutionrelative:spoilerejer14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersistenciaEnMemoria.cs",
+              "DocumentMoniker": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\PRACTICA-IND\\spoilerejer14\\spoilerejer14\\Data\\PersistenciaEnMemoria.cs",
+              "RelativeDocumentMoniker": "spoilerejer14\\Data\\PersistenciaEnMemoria.cs",
+              "ToolTip": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\PRACTICA-IND\\spoilerejer14\\spoilerejer14\\Data\\PersistenciaEnMemoria.cs*",
+              "RelativeToolTip": "spoilerejer14\\Data\\PersistenciaEnMemoria.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:49:41.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\PRACTICA-IND\\spoilerejer14\\spoilerejer14\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "spoilerejer14\\Domain\\Product.cs",
+              "ToolTip": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\PRACTICA-IND\\spoilerejer14\\spoilerejer14\\Domain\\Product.cs*",
+              "RelativeToolTip": "spoilerejer14\\Domain\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:42:00.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\PRACTICA-IND\\spoilerejer14\\spoilerejer14\\Program.cs",
+              "RelativeDocumentMoniker": "spoilerejer14\\Program.cs",
+              "ToolTip": "D:\\A - Escritorio\\Facultad\\2025\\.DSW\\PRACTICA-IND\\spoilerejer14\\spoilerejer14\\Program.cs*",
+              "RelativeToolTip": "spoilerejer14\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:25:55.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
