@@ -1,0 +1,11 @@
+si no hay stock, la API devuelve un error (un bad request)
+--- debe devolver un not found, no un bad request
+
+falta:
+obtener todas las ordenes
+obtener una orden por id
+actualizar el estado de una orden
+agregar paginacion
+agregar manejo de errores
+agregar los roles
+sacar la lectura de la base de datos afuera del for (?)
